@@ -78,3 +78,5 @@ Interactive Filters & Maps: Country-level insights and regional trends
 The project provided clear, data-backed insights to assist XYZ World Bank in policy design, investment planning, and cost management, resulting in improved forecasting and strategic decision-making.
 
 Dashboard <img width="1327" height="750" alt="Dashboard" src="https://github.com/user-attachments/assets/73c1f0fa-a665-4655-aa1c-698c109c374c" />
+<img width="1318" height="659" alt="Dashborad 2" src="https://github.com/user-attachments/assets/0c06d50e-ffb5-4fe8-a45b-16c519156a36" />
+

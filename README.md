@@ -1,10 +1,10 @@
-🧠 Project Title: GDP Growth Analysis Report
+ Project Title: GDP Growth Analysis Report
 
-📅 Date: 31st October 2025
-👨‍💻 Prepared by: Abdul Saim Khan
-📈 Client: XYZ World Bank
+Date: 31st October 2025
+Prepared by: Abdul Saim Khan
+Client: XYZ World Bank
 
-🔍 Project Overview
+Project Overview
 
 This project analyzes the GDP growth rate of 139 countries using cost-of-living and economic indexes. The aim is to uncover relationships between living costs, rent, groceries, restaurant prices, and local purchasing power to guide better financial and policy decisions.
 
@@ -14,7 +14,7 @@ Detect growth patterns across countries based on economic indexes.
 
 Provide actionable financial recommendations to enhance GDP growth.
 
-💾 Data Overview
+Data Overview
 
 Source: Cost of Living Index 2023
 
@@ -34,13 +34,13 @@ Restaurant Price Index – Food pricing across restaurants
 
 Local Purchasing Power Index – Consumer spending ability
 
-⚙️ Tools & Technologies
+ Tools & Technologies
 
 SQL – Data extraction, cleaning, and insights generation
 
 Power BI – Data visualization and dashboard creation
 
-📊 Key Insights (via SQL)
+ Key Insights (via SQL)
 
 42 countries with rent index > 10
 
@@ -50,7 +50,7 @@ Identified countries with restaurant price index > 70 but groceries index < 50
 
 Bottom 10 countries with lowest living cost but high purchasing power (>30)
 
-📈 Visualizations (Power BI)
+ Visualizations (Power BI)
 
 Bar & Column Charts: Country-wise comparison of indexes
 
@@ -62,7 +62,7 @@ Cards (KPIs): Average rent, cost of living, purchasing power, restaurant cost
 
 Interactive Filters & Maps: Country-level insights and regional trends
 
-💡 Business Recommendations
+ Business Recommendations
 | **Area**            | **Recommendation**                                         | **Expected Outcome**          |
 | ------------------- | ---------------------------------------------------------- | ----------------------------- |
 | Market Expansion    | Expand in low-cost countries (Vietnam, Zambia, Uzbekistan) | ↓ Operational cost by 10–15%  |
@@ -73,7 +73,7 @@ Interactive Filters & Maps: Country-level insights and regional trends
 | Resource Allocation | Focus marketing on balanced economies                      | ↑ Conversion rate by ~15%     |
 
 
-🚀 Outcome
+ Outcome
 
 The project provided clear, data-backed insights to assist XYZ World Bank in policy design, investment planning, and cost management, resulting in improved forecasting and strategic decision-making.
 
